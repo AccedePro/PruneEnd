@@ -7,3 +7,9 @@ Xisumavoid covered this technique in one of his videos:
 https://www.youtube.com/watch?v=fGlqDBcgmIc
 
 This is a lightweight program that automates the deletion process and can be used along with my EndSMPTweaks plugin to provide a fair experience to all players.
+
+Before running the script using the included batch file, make sure to check for a few things:
+
+1. The directories in the python code point towards the server's end region folder
+2. The batch file points towards your python.exe file (usually in your AppData-Local directory)
+3. The batch file also points towards where the python script is located on your PC
