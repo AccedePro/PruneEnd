@@ -31,6 +31,6 @@ time.sleep(3)
 for deletefile in notfound:
     print(deletefile + " deleted.")
     os.remove('C:/Users/WinServ/Documents/***/Servers/Main [1.16.5]/main_the_end/DIM1/region/' + deletefile)
-    #make sure to include a slash at the very end of the path for this one                                     ^^
+    #make sure to include a slash at the very end of the path for this one                  ^^
 
     
